@@ -18,6 +18,9 @@ STEP 6: Print the result.
 STEP 7 : Stop.
 ### Program:
 ```
+#Name:Lavanya S
+Reg no:212222070017
+
 def create_matrix(n,m):
          M = []
          for i in range(n):
@@ -67,6 +70,9 @@ STEP 7 : Stop.
 
 ### Program:
 ```
+#Name:Lavanya S
+Reg no:212222070017
+
 class program:
 
       def  __init__(self,a,b,c):
@@ -109,6 +115,9 @@ STEP 7 : Stop.
 
 ### Program:
 ```
+#Name:Lavanya S
+Reg no:212222070017
+
 def create(r,c):
             M=[]
         for i in range(int(r)):
@@ -153,6 +162,9 @@ STEP 7 : Stop.
 
 ### Program:
 ```
+#Name:Lavanya S
+Reg no:212222070017
+
 def create_matrix(n,m):
         M=[]
         for i in range(n):
