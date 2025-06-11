@@ -18,8 +18,8 @@ STEP 6: Print the result.
 STEP 7 : Stop.
 ### Program:
 ```
-#Name:Lavanya S
-Reg no:212222070017
+#Name:S M Kailash
+Reg no:2122220040068
 
 def create_matrix(n,m):
          M = []
@@ -70,8 +70,8 @@ STEP 7 : Stop.
 
 ### Program:
 ```
-#Name:Lavanya S
-Reg no:212222070017
+#Name:S M Kailash
+Reg no:212222040068
 
 class program:
 
@@ -115,8 +115,8 @@ STEP 7 : Stop.
 
 ### Program:
 ```
-#Name:Lavanya S
-Reg no:212222070017
+#Name:S M Kailash
+Reg no:212222040068
 
 def create(r,c):
             M=[]
@@ -162,8 +162,8 @@ STEP 7 : Stop.
 
 ### Program:
 ```
-#Name:Lavanya S
-Reg no:212222070017
+#Name: S M Kailash
+Reg no:212222040068
 
 def create_matrix(n,m):
         M=[]
